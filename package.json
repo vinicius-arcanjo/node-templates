@@ -1,5 +1,5 @@
 {
-  "name": "node-express",
+  "name": "node-fastify",
   "version": "1.0.0",
   "main": "index.js",
   "license": "MIT",
@@ -8,11 +8,10 @@
     "lint": "pnpm dlx @biomejs/biome check --apply src"
   },
   "dependencies": {
-    "express": "^4.18.2"
+    "fastify": "^4.25.1"
   },
   "devDependencies": {
     "@biomejs/biome": "1.4.1",
-    "@types/express": "^4.17.21",
     "tsx": "^4.6.2",
     "typescript": "^5.3.3"
   }
