@@ -1,4 +1,4 @@
-import { EmailBadFormattedError } from '@domain/value-objects/errors/email-bad-formatted-error';
+import { EmailBadFormattedError } from '@domain/entities/user/errors/email-bad-formatted-error';
 
 import { UsersRepository } from '@infra/database/repositories/users.repository';
 

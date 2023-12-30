@@ -2,7 +2,7 @@ import { Injectable } from '@nestjs/common';
 
 import { AsyncMaybe } from '@core/logic/Maybe';
 
-import { User } from '@domain/entities/user.entity';
+import { User } from '@domain/entities/user/user.entity';
 
 @Injectable()
 export abstract class UsersRepository {

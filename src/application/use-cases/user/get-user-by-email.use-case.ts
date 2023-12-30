@@ -2,9 +2,9 @@ import { Injectable } from '@nestjs/common';
 
 import { Either, left, right } from '@core/logic/Either';
 
-import { User } from '@domain/entities/user.entity';
-import { Email } from '@domain/value-objects/email';
-import { EmailBadFormattedError } from '@domain/value-objects/errors/email-bad-formatted-error';
+import { User } from '@domain/entities/user/user.entity';
+import { Email } from '@domain/entities/user/email';
+import { EmailBadFormattedError } from '@domain/entities/user/errors/email-bad-formatted-error';
 
 import { UsersRepository } from '@infra/database/repositories/users.repository';
 
