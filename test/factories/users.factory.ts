@@ -3,7 +3,7 @@ import { Injectable } from '@nestjs/common';
 
 import { Replace } from '@core/logic/Replace';
 
-import { User, UserProps } from '@domain/entities/user.entity';
+import { User, UserProps } from '@domain/entities/user/user.entity';
 
 import { UserMapper } from '@infra/database/prisma/mappers/user.mapper';
 import { PrismaService } from '@infra/database/prisma/prisma.service';

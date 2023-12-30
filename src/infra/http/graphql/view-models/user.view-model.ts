@@ -1,4 +1,4 @@
-import { User as UserEntity } from '@domain/entities/user.entity';
+import { User as UserEntity } from '@domain/entities/user/user.entity';
 
 import { User } from '../dto/models/user.model';
 
