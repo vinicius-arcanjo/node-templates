@@ -1,11 +1,11 @@
-### This is an [Express](https://expressjs.com/) template.
+### This is an [Fastify](https://www.fastify.io/) template.
 
 ## What is inside?
 
 This project uses lot of stuff as:
 
 - [Typescript](https://www.typescriptlang.org/)
-- [Express](https://expressjs.com/)
+- [Fastify](https://www.fastify.io/)
 - [Biome](https://biomejs.dev/)
 
 [//]: # (- [Jest]&#40;https://jestjs.io/&#41;)
