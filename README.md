@@ -59,4 +59,4 @@ Contributions to improve the templates are always welcome! If you wish to add ne
 
 ## License
 
-This project is under the `[YOUR LICENSE HERE]`. See the `LICENSE` file in each branch for more details.
+This project is under the [MIT License ©](https://github.com/vinicius-arcanjo/node-templates/blob/main/LICENSE.md). See the `LICENSE` file in each branch for more details.
